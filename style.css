@@ -21,7 +21,7 @@
     border-radius: 15px;
 }
 .todo-app h2 {
-    color: #002765;
+    color: #CD295A;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
@@ -45,7 +45,7 @@ input {
     outline: none;
     background: transparent;
     padding: 10px;
-    font-size: 14px; /* Corrected property */
+    font-size: 14px; 
 }
 button {
     border: none;
@@ -55,7 +55,7 @@ button {
     color: #fff;
     font-size: 15px;
     border-radius: 40px;
-    cursor: pointer; /* Improve usability */
+    cursor: pointer; 
 }
 ul li {
     list-style: none;
